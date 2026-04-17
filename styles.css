@@ -489,8 +489,8 @@ input, select, textarea, button {
 }
 
 .logo-mark {
-  width: 70px;
-  height: 70px;
+  width: 160px;
+  height: 80px;
   flex-shrink: 0;
   display: grid;
   place-items: center;
@@ -504,9 +504,7 @@ input, select, textarea, button {
 }
 
 .logo-text {
-  display: flex;
-  flex-direction: column;
-  line-height: 1;
+  display: none;
 }
 
 .logo-primary {
