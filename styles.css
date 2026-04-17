@@ -1222,6 +1222,14 @@ input, select, textarea, button {
   color: var(--navy);
 }
 
+.service-icon-dollar {
+  font-family: var(--font-body);
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--teal-dark);
+  line-height: 1;
+}
+
 .service-icon svg {
   width: 28px;
   height: 28px;
